@@ -1,0 +1,1 @@
+Nicaragua, oficialmente llamado República de Nicaragua, es un país ubicado en América Central. Su capital y ciudad más poblada es Managua, aunque anteriormente era León. Está compuesta por quince departamentos y dos regiones autónomas: Costa Caribe Norte y Costa Caribe Sur. (Wikipedia)

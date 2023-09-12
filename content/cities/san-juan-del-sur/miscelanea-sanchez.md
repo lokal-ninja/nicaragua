@@ -1,0 +1,5 @@
+---
+title: "Miscelánea Sánchez"
+url: /san-juan-del-sur/miscelanea-sanchez/
+shop: supermercado
+---
