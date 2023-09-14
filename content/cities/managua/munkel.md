@@ -1,5 +1,5 @@
 ---
 title: "Münkel"
-url: /managua/muenkel/
+url: /managua/munkel/
 shop: óptico
 ---

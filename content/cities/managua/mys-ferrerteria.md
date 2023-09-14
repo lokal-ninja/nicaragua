@@ -1,5 +1,5 @@
 ---
 title: "M&S Ferrertería"
-url: /managua/munds-ferrerteria/
+url: /managua/mys-ferrerteria/
 shop: hardware
 ---

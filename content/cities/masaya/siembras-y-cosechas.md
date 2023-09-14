@@ -1,5 +1,5 @@
 ---
 title: "Siembras & Cosechas"
-url: /masaya/siembras-und-cosechas/
+url: /masaya/siembras-y-cosechas/
 shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Claro"
-url: /masaya/claro/
+url: /masaya/claro-calle-san-miguel/
 shop: general
 ---

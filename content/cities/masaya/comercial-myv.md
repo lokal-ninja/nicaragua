@@ -1,5 +1,5 @@
 ---
 title: "Comercial M&V"
-url: /masaya/comercial-mundv/
+url: /masaya/comercial-myv/
 shop: ropa
 ---

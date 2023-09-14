@@ -1,5 +1,5 @@
 ---
 title: "Panadería y Repostería"
-url: /chinandega/panaderia-y-reposteria/
+url: /chinandega/panaderia-y-reposteria-2/
 shop: panadería
 ---

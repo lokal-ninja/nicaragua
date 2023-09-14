@@ -1,5 +1,5 @@
 ---
 title: "Ópticas Münkel"
-url: /granada/opticas-muenkel/
+url: /barrio-santa-ana/opticas-munkel/
 shop: óptico
 ---

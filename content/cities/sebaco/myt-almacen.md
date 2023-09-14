@@ -1,5 +1,5 @@
 ---
 title: "M&T Almacen"
-url: /sebaco/mundt-almacen/
+url: /sebaco/myt-almacen/
 shop: general
 ---

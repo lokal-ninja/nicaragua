@@ -1,5 +1,5 @@
 ---
 title: "Lobster & Beef"
-url: /managua/lobster-und-beef/
+url: /managua/lobster-y-beef/
 shop: carnicero
 ---

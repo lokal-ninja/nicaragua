@@ -1,5 +1,5 @@
 ---
 title: "Eskimo"
-url: /diriomo/eskimo/
+url: /diriomo/eskimo-1era-avenida-oeste-ruben-dario/
 shop: general
 ---

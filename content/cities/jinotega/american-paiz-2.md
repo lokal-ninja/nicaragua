@@ -1,5 +1,5 @@
 ---
 title: "American Paiz"
-url: /jinotega/american-paiz/
+url: /jinotega/american-paiz-2/
 shop: general
 ---

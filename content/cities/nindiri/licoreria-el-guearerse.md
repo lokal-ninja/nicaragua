@@ -1,5 +1,5 @@
 ---
 title: "Licorería El Güearerse"
-url: /nindiri/licoreria-el-gueearerse/
+url: /nindiri/licoreria-el-guearerse/
 shop: alcohol
 ---

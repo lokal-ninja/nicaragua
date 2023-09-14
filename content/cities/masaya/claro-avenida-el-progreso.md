@@ -1,5 +1,5 @@
 ---
 title: "Claro"
-url: /masaya/claro/
+url: /masaya/claro-avenida-el-progreso/
 shop: general
 ---

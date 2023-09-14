@@ -1,5 +1,5 @@
 ---
 title: "Claro"
-url: /chinandega/claro/
+url: /chinandega/claro-4/
 shop: general
 ---

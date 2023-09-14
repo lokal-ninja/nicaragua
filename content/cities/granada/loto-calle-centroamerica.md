@@ -1,5 +1,5 @@
 ---
 title: "Loto"
-url: /granada/loto/
+url: /granada/loto-calle-centroamerica/
 shop: lotería
 ---

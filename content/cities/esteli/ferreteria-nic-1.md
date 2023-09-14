@@ -1,5 +1,5 @@
 ---
 title: "Ferretería"
-url: /esteli/ferreteria/
+url: /esteli/ferreteria-nic-1/
 shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
-url: /masaya/firestone/
+url: /masaya/firestone-reparto-cdte-henry-bermudez/
 shop: neumáticos
 ---

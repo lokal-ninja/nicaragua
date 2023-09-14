@@ -1,5 +1,5 @@
 ---
 title: "K & H"
-url: /bluefields/k-und-h/
+url: /bluefields/k-y-h/
 shop: marisco
 ---

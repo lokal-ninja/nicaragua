@@ -1,5 +1,5 @@
 ---
 title: "Eskimo"
-url: /managua/eskimo/
+url: /managua/eskimo-pista-de-la-resistencia/
 shop: general
 ---

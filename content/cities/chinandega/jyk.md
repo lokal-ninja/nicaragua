@@ -1,5 +1,5 @@
 ---
 title: "J&K"
-url: /chinandega/jundk/
+url: /chinandega/jyk/
 shop: ropa
 ---

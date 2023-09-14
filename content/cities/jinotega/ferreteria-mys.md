@@ -1,5 +1,5 @@
 ---
 title: "Ferretería M&S"
-url: /jinotega/ferreteria-munds/
+url: /jinotega/ferreteria-mys/
 shop: hardware
 ---

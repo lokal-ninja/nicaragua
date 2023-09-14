@@ -1,5 +1,5 @@
 ---
 title: "J&K Collection"
-url: /chinandega/jundk-collection/
+url: /chinandega/jyk-collection/
 shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "K&M Celular"
-url: /jinotega/kundm-celular/
+url: /jinotega/kym-celular/
 shop: teléfono móvil
 ---

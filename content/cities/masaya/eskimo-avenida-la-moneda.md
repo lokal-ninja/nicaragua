@@ -1,5 +1,5 @@
 ---
 title: "Eskimo"
-url: /masaya/eskimo/
+url: /masaya/eskimo-avenida-la-moneda/
 shop: general
 ---

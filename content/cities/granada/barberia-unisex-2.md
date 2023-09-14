@@ -1,5 +1,5 @@
 ---
 title: "Barbería Unisex"
-url: /granada/barberia-unisex/
+url: /granada/barberia-unisex-2/
 shop: peluquería
 ---

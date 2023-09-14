@@ -1,5 +1,5 @@
 ---
 title: "J&S Estios"
-url: /masaya/junds-estios/
+url: /masaya/jys-estios/
 shop: cosméticos
 ---

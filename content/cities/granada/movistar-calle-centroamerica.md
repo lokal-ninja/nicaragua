@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
-url: /granada/movistar/
+url: /granada/movistar-calle-centroamerica/
 shop: teléfono móvil
 ---
