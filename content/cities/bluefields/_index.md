@@ -1,6 +1,6 @@
 ---
 title: Bluefields
 url: /bluefields/
-latitude: 12.012
-longitude: -83.767
+latitude: 12.011
+longitude: -83.76
 ---
