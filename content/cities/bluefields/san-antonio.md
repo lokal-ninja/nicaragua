@@ -1,5 +1,5 @@
 ---
 title: "San Antonio"
 url: /bluefields/san-antonio/
-shop: quiosco
+shop: general
 ---
