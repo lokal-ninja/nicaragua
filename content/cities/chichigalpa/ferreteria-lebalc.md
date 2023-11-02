@@ -1,5 +1,5 @@
 ---
-title: "Ferretería LEBALC"
+title: "Ferretería Lebalc"
 url: /chichigalpa/ferreteria-lebalc/
 shop: hardware
 ---
