@@ -1,6 +1,6 @@
 ---
 title: Masaya
 url: /masaya/
-latitude: 11.976
-longitude: -86.092
+latitude: 11.983
+longitude: -86.094
 ---
