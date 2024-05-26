@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
-url: /masaya/movistar-2/
+url: /masaya/movistar-calle-central/
 shop: general
 ---
