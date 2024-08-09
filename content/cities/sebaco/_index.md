@@ -1,6 +1,6 @@
 ---
 title: Sébaco
 url: /sebaco/
-latitude: 12.851
-longitude: -86.099
+latitude: 12.855
+longitude: -86.097
 ---
