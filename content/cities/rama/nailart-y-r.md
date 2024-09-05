@@ -1,5 +1,5 @@
 ---
 title: "Nailart Y.R"
 url: /rama/nailart-y-r/
-shop: cosméticos
+shop: Kosmetik
 ---

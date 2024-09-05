@@ -1,5 +1,5 @@
 ---
 title: "Daromas"
 url: /chinandega/daromas/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ciclocentro Junior"
 url: /granada/ciclocentro-junior/
-shop: bicicleta
+shop: Fahrrad
 ---

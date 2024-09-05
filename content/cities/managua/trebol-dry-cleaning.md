@@ -1,5 +1,5 @@
 ---
 title: "Trébol dry cleaning"
 url: /managua/trebol-dry-cleaning/
-shop: lavandería
+shop: Wäscherei
 ---

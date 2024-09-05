@@ -1,5 +1,5 @@
 ---
 title: "Eskimo"
 url: /juigalpa/eskimo/
-shop: helado
+shop: Eisprodukte
 ---

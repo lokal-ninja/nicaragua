@@ -1,5 +1,5 @@
 ---
 title: "Pulpería Doña Gloria"
 url: /chinandega/pulperia-dona-gloria/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Castro Zelaya"
 url: /jinotega/castro-zelaya/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eskimo"
 url: /granada/eskimo/
-shop: confitería
+shop: Süßwaren
 ---

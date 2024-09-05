@@ -1,5 +1,5 @@
 ---
 title: "Mini"
 url: /bluefields/mini/
-shop: quiosco
+shop: Kiosk
 ---

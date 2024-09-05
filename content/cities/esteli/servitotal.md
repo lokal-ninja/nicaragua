@@ -1,5 +1,5 @@
 ---
 title: "ServiTotal"
 url: /esteli/servitotal/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Paraiso Del Niño"
 url: /chinandega/paraiso-del-nino/
-shop: juguetes
+shop: Spielzeug
 ---

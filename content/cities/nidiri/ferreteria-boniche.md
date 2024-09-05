@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Boniche"
 url: /nidiri/ferreteria-boniche/
-shop: hardware
+shop: Eisenwaren
 ---

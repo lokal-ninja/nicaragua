@@ -1,5 +1,5 @@
 ---
 title: "Prolar"
 url: /managua/prolar/
-shop: hardware
+shop: Eisenwaren
 ---

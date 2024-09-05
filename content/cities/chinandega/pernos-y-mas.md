@@ -1,5 +1,5 @@
 ---
 title: "Pernos y Más"
 url: /chinandega/pernos-y-mas/
-shop: pintura
+shop: Farben
 ---

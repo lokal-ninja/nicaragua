@@ -1,5 +1,5 @@
 ---
 title: "Ferretería La Hoyada"
 url: /granada/ferreteria-la-hoyada/
-shop: hardware
+shop: Eisenwaren
 ---

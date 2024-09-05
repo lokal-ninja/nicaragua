@@ -1,5 +1,5 @@
 ---
 title: "Barbería God King"
 url: /jinotega/barberia-god-king/
-shop: peluquería
+shop: Friseur
 ---

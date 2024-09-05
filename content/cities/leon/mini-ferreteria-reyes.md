@@ -1,5 +1,5 @@
 ---
 title: "Mini Ferretería Reyes"
 url: /leon/mini-ferreteria-reyes/
-shop: hardware
+shop: Eisenwaren
 ---

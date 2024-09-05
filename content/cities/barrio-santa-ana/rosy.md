@@ -1,5 +1,5 @@
 ---
 title: "Rosy"
 url: /barrio-santa-ana/rosy/
-shop: ropa
+shop: Kleidung
 ---

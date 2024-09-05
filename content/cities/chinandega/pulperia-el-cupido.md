@@ -1,5 +1,5 @@
 ---
 title: "Pulpería El Cupido"
 url: /chinandega/pulperia-el-cupido/
-shop: comodidad
+shop: Lebensmittel
 ---

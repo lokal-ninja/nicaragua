@@ -1,5 +1,5 @@
 ---
 title: "Variedades el Hermano"
 url: /jinotega/variedades-el-hermano/
-shop: general
+shop: Allgemein
 ---

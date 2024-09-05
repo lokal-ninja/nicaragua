@@ -1,5 +1,5 @@
 ---
 title: "Ropa Usada Gladys"
 url: /jinotega/ropa-usada-gladys/
-shop: ropa
+shop: Kleidung
 ---

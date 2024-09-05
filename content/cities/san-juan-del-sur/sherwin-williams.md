@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /san-juan-del-sur/sherwin-williams/
-shop: pintura
+shop: Farben
 ---

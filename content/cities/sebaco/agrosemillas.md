@@ -1,5 +1,5 @@
 ---
 title: "Agrosemillas"
 url: /sebaco/agrosemillas/
-shop: general
+shop: Allgemein
 ---

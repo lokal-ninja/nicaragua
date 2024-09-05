@@ -1,5 +1,5 @@
 ---
 title: "Rubdrians"
 url: /bluefields/rubdrians/
-shop: quiosco
+shop: Kiosk
 ---

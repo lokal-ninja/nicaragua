@@ -1,5 +1,5 @@
 ---
 title: "Ferromax"
 url: /leon/ferromax/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Óptica Global"
 url: /masaya/optica-global/
-shop: óptico
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /nindiri/movistar/
-shop: general
+shop: Allgemein
 ---

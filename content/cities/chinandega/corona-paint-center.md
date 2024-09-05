@@ -1,5 +1,5 @@
 ---
 title: "Corona Paint Center"
 url: /chinandega/corona-paint-center/
-shop: pintura
+shop: Farben
 ---

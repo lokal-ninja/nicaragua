@@ -1,5 +1,5 @@
 ---
 title: "RadioShack"
 url: /chinandega/radioshack/
-shop: electrónica
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Profysa"
 url: /chinandega/profysa/
-shop: general
+shop: Allgemein
 ---

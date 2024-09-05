@@ -1,5 +1,5 @@
 ---
 title: "Celmania"
 url: /jinotega/celmania/
-shop: electrónica
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sinsa"
 url: /esteli/sinsa/
-shop: general
+shop: Allgemein
 ---

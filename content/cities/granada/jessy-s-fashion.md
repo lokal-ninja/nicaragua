@@ -1,5 +1,5 @@
 ---
 title: "Jessy´s Fashion"
 url: /granada/jessy-s-fashion/
-shop: ropa
+shop: Kleidung
 ---

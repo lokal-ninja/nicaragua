@@ -1,5 +1,5 @@
 ---
 title: "Llantas Federal"
 url: /managua/llantas-federal/
-shop: neumáticos
+shop: Reifen
 ---

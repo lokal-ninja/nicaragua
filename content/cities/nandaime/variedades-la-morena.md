@@ -1,5 +1,5 @@
 ---
 title: "Variedades La Morena"
 url: /nandaime/variedades-la-morena/
-shop: ropa
+shop: Kleidung
 ---

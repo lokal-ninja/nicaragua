@@ -1,5 +1,5 @@
 ---
 title: "Barbería Aben"
 url: /chinandega/barberia-aben/
-shop: peluquería
+shop: Friseur
 ---

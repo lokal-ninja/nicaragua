@@ -1,5 +1,5 @@
 ---
 title: "Puma"
 url: /rivas/puma/
-shop: comodidad
+shop: Lebensmittel
 ---

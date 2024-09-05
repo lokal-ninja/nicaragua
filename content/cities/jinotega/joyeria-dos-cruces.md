@@ -1,5 +1,5 @@
 ---
 title: "Joyería Dos Cruces"
 url: /jinotega/joyeria-dos-cruces/
-shop: joyería
+shop: Schmuck
 ---

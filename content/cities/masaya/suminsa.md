@@ -1,5 +1,5 @@
 ---
 title: "SUMINSA"
 url: /masaya/suminsa/
-shop: hardware
+shop: Eisenwaren
 ---

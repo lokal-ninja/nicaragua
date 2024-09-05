@@ -1,5 +1,5 @@
 ---
 title: "Pintacasa"
 url: /chinandega/pintacasa/
-shop: pintura
+shop: Farben
 ---

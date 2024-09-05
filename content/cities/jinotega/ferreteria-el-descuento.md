@@ -1,5 +1,5 @@
 ---
 title: "Ferretería el Descuento"
 url: /jinotega/ferreteria-el-descuento/
-shop: hardware
+shop: Eisenwaren
 ---

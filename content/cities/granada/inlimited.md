@@ -1,5 +1,5 @@
 ---
 title: "Inlimited"
 url: /granada/inlimited/
-shop: ropa
+shop: Kleidung
 ---

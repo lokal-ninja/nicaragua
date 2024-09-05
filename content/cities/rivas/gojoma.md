@@ -1,5 +1,5 @@
 ---
 title: "Gojoma"
 url: /rivas/gojoma/
-shop: pintura
+shop: Farben
 ---

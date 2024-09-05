@@ -1,5 +1,5 @@
 ---
 title: "Alpina"
 url: /granada/alpina/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Variedades las Gemelas"
 url: /jinotega/variedades-las-gemelas/
-shop: artesanía
+shop: Basteln
 ---

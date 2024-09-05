@@ -1,5 +1,5 @@
 ---
 title: "Tees"
 url: /masaya/tees/
-shop: ropa
+shop: Kleidung
 ---

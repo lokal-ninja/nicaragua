@@ -1,5 +1,5 @@
 ---
 title: "Briomol"
 url: /esteli/briomol/
-shop: charcutería
+shop: Feinkost
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vulcanizadora"
 url: /managua/vulcanizadora/
-shop: neumáticos
+shop: Reifen
 ---

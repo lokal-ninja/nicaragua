@@ -1,5 +1,5 @@
 ---
 title: "Morado"
 url: /bluefields/morado/
-shop: quiosco
+shop: Kiosk
 ---

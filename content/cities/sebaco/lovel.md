@@ -1,5 +1,5 @@
 ---
 title: "Lovel"
 url: /sebaco/lovel/
-shop: general
+shop: Allgemein
 ---

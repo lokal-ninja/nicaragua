@@ -1,5 +1,5 @@
 ---
 title: "Autolote"
 url: /jinotega/autolote/
-shop: coche
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Comex"
 url: /esteli/comex/
-shop: general
+shop: Allgemein
 ---

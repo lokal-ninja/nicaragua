@@ -1,5 +1,5 @@
 ---
 title: "Chinos"
 url: /masaya/chinos/
-shop: ropa
+shop: Kleidung
 ---

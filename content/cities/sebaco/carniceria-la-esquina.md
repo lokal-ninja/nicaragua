@@ -1,5 +1,5 @@
 ---
 title: "Carniceria la Esquina"
 url: /sebaco/carniceria-la-esquina/
-shop: carnicero
+shop: Metzgerei
 ---

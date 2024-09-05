@@ -1,5 +1,5 @@
 ---
 title: "Uno"
 url: /granada/uno/
-shop: general
+shop: Allgemein
 ---

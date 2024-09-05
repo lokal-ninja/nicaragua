@@ -1,5 +1,5 @@
 ---
 title: "Ferretería"
 url: /esteli/ferreteria/
-shop: hardware
+shop: Eisenwaren
 ---

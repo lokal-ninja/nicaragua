@@ -1,5 +1,5 @@
 ---
 title: "Agro Partes"
 url: /chinandega/agro-partes/
-shop: general
+shop: Allgemein
 ---

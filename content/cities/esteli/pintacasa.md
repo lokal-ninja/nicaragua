@@ -1,5 +1,5 @@
 ---
 title: "Pintacasa"
 url: /esteli/pintacasa/
-shop: general
+shop: Allgemein
 ---

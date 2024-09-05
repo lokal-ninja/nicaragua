@@ -1,5 +1,5 @@
 ---
 title: "Cyber Navega"
 url: /masaya/cyber-navega/
-shop: copyshop
+shop: Kopieren
 ---

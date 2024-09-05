@@ -1,5 +1,5 @@
 ---
 title: "Lucy"
 url: /managua/lucy/
-shop: peluquería
+shop: Friseur
 ---

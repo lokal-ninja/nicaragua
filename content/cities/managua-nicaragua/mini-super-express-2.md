@@ -1,5 +1,5 @@
 ---
 title: "Mini Super Express"
 url: /managua-nicaragua/mini-super-express-2/
-shop: comodidad
+shop: Lebensmittel
 ---

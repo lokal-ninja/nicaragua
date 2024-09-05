@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /chinandega/movistar/
-shop: general
+shop: Allgemein
 ---

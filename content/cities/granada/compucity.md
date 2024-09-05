@@ -1,5 +1,5 @@
 ---
 title: "Compucity"
 url: /granada/compucity/
-shop: ordenador
+shop: Computer
 ---

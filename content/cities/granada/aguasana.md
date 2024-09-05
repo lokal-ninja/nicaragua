@@ -1,5 +1,5 @@
 ---
 title: "AguaSana"
 url: /granada/aguasana/
-shop: supermercado
+shop: Supermarkt
 ---

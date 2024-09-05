@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Emmanuel"
 url: /granada/ferreteria-emmanuel/
-shop: hardware
+shop: Eisenwaren
 ---

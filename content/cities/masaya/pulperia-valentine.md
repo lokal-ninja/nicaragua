@@ -1,5 +1,5 @@
 ---
 title: "Pulpería Valentine"
 url: /masaya/pulperia-valentine/
-shop: comodidad
+shop: Lebensmittel
 ---

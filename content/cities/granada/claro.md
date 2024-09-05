@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /granada/claro/
-shop: teléfono móvil
+shop: Handy
 ---

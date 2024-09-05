@@ -1,5 +1,5 @@
 ---
 title: "RadioShack"
 url: /bluefields/radioshack/
-shop: electrónica
+shop: Elektronik
 ---

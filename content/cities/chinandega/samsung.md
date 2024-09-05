@@ -1,5 +1,5 @@
 ---
 title: "Samsung"
 url: /chinandega/samsung/
-shop: general
+shop: Allgemein
 ---

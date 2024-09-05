@@ -1,5 +1,5 @@
 ---
 title: "Floristería El Carmen"
 url: /masaya/floristeria-el-carmen/
-shop: floristería
+shop: Blumen
 ---

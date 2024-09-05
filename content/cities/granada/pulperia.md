@@ -1,5 +1,5 @@
 ---
 title: "Pulpería"
 url: /granada/pulperia/
-shop: comodidad
+shop: Lebensmittel
 ---

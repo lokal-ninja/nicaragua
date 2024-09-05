@@ -1,5 +1,5 @@
 ---
 title: "Pulpería"
 url: /masaya/pulperia/
-shop: comodidad
+shop: Lebensmittel
 ---

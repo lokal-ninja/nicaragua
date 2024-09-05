@@ -1,5 +1,5 @@
 ---
 title: "Puma"
 url: /granada/puma/
-shop: comodidad
+shop: Lebensmittel
 ---

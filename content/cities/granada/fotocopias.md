@@ -1,5 +1,5 @@
 ---
 title: "Fotocopias"
 url: /granada/fotocopias/
-shop: copyshop
+shop: Kopieren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferretería"
 url: /masaya/ferreteria/
-shop: hardware
+shop: Eisenwaren
 ---

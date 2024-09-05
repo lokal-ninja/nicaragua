@@ -1,5 +1,5 @@
 ---
 title: "Rafla"
 url: /managua/rafla/
-shop: prestamista
+shop: Leiher
 ---

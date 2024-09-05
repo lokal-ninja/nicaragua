@@ -1,5 +1,5 @@
 ---
 title: "Top Brands"
 url: /sebaco/top-brands/
-shop: general
+shop: Allgemein
 ---

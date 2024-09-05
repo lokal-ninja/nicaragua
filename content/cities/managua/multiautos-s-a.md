@@ -1,5 +1,5 @@
 ---
 title: "Multiautos S. A."
 url: /managua/multiautos-s-a/
-shop: coche
+shop: Autohaus
 ---

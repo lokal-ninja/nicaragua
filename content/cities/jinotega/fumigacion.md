@@ -1,5 +1,5 @@
 ---
 title: "Fumigacion"
 url: /jinotega/fumigacion/
-shop: general
+shop: Allgemein
 ---
