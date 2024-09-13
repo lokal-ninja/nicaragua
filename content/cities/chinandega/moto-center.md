@@ -1,5 +1,5 @@
 ---
 title: "Moto Center"
 url: /chinandega/moto-center/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tecnomotres"
 url: /managua/tecnomotres/
-shop: Motorrad
+shop: motocicleta
 ---

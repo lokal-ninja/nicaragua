@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Guadalupe"
 url: /chinandega/distribuidora-guadalupe/
-shop: Farben
+shop: pintura
 ---

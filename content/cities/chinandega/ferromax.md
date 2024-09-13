@@ -1,5 +1,5 @@
 ---
 title: "Ferromax"
 url: /chinandega/ferromax/
-shop: Eisenwaren
+shop: hardware
 ---

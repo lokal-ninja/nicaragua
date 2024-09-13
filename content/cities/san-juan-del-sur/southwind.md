@@ -1,5 +1,5 @@
 ---
 title: "Southwind"
 url: /san-juan-del-sur/southwind/
-shop: Reisebüro
+shop: agencia de viajes
 ---

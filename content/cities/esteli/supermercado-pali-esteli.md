@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Palí Estelí"
 url: /esteli/supermercado-pali-esteli/
-shop: Supermarkt
+shop: supermercado
 ---

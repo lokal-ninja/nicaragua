@@ -1,5 +1,5 @@
 ---
 title: "San Pedro"
 url: /bluefields/san-pedro/
-shop: Kiosk
+shop: quiosco
 ---

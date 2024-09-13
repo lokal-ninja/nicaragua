@@ -1,5 +1,5 @@
 ---
 title: "Bazar Ilca Meza"
 url: /jinotega/bazar-ilca-meza/
-shop: Allgemein
+shop: general
 ---

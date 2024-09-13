@@ -1,5 +1,5 @@
 ---
 title: "Karaoke Kids"
 url: /jinotega/karaoke-kids/
-shop: Allgemein
+shop: general
 ---

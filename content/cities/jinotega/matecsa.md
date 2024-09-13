@@ -1,5 +1,5 @@
 ---
 title: "Matecsa"
 url: /jinotega/matecsa/
-shop: Eisenwaren
+shop: hardware
 ---

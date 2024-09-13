@@ -1,5 +1,5 @@
 ---
 title: "Motoshop VRC"
 url: /managua/motoshop-vrc/
-shop: Motorrad
+shop: motocicleta
 ---

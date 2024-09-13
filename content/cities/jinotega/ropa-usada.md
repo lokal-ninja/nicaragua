@@ -1,5 +1,5 @@
 ---
 title: "Ropa Usada"
 url: /jinotega/ropa-usada/
-shop: Kleidung
+shop: ropa
 ---

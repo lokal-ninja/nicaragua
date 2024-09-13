@@ -1,5 +1,5 @@
 ---
 title: "Kamilas Turka"
 url: /chinandega/kamilas-turka/
-shop: Reisebüro
+shop: agencia de viajes
 ---

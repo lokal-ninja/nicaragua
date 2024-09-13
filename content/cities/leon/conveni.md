@@ -1,5 +1,5 @@
 ---
 title: "Conveni"
 url: /leon/conveni/
-shop: Supermarkt
+shop: supermercado
 ---

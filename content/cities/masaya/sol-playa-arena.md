@@ -1,5 +1,5 @@
 ---
 title: "Sol Playa Arena"
 url: /masaya/sol-playa-arena/
-shop: Kleidung
+shop: ropa
 ---

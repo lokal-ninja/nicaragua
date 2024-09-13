@@ -1,5 +1,5 @@
 ---
 title: "Eskimo"
 url: /masaya/eskimo/
-shop: Allgemein
+shop: general
 ---

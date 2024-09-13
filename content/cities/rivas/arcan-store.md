@@ -1,5 +1,5 @@
 ---
 title: "Arcan Store"
 url: /rivas/arcan-store/
-shop: Kleidung
+shop: ropa
 ---

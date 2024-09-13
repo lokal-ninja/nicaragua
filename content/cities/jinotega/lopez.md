@@ -1,5 +1,5 @@
 ---
 title: "López"
 url: /jinotega/lopez/
-shop: Autoteile
+shop: piezas de automóviles
 ---

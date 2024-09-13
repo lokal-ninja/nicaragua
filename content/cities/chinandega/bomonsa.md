@@ -1,5 +1,5 @@
 ---
 title: "Bomonsa"
 url: /chinandega/bomonsa/
-shop: Autoteile
+shop: piezas de automóviles
 ---

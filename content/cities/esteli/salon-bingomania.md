@@ -1,5 +1,5 @@
 ---
 title: "Salón Bingomania"
 url: /esteli/salon-bingomania/
-shop: Kosmetik
+shop: cosméticos
 ---

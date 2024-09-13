@@ -1,5 +1,5 @@
 ---
 title: "Compumovil"
 url: /bluefields/compumovil/
-shop: Computer
+shop: ordenador
 ---

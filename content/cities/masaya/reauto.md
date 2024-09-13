@@ -1,5 +1,5 @@
 ---
 title: "Reauto"
 url: /masaya/reauto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

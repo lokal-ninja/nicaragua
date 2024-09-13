@@ -1,5 +1,5 @@
 ---
 title: "Makerisa"
 url: /jinotega/makerisa/
-shop: Handy
+shop: teléfono móvil
 ---

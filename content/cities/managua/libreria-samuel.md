@@ -1,5 +1,5 @@
 ---
 title: "Librería Samuel"
 url: /managua/libreria-samuel/
-shop: Schreibwaren
+shop: material de oficina
 ---

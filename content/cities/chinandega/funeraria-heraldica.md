@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Heraldica"
 url: /chinandega/funeraria-heraldica/
-shop: Bestattungen
+shop: directores de funerarias
 ---

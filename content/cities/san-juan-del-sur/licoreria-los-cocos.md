@@ -1,5 +1,5 @@
 ---
 title: "Licorería Los Cocos"
 url: /san-juan-del-sur/licoreria-los-cocos/
-shop: Spirituosen
+shop: alcohol
 ---

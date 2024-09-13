@@ -1,5 +1,5 @@
 ---
 title: "Materiales de Contruccion el Espuerzo"
 url: /masaya/materiales-de-contruccion-el-espuerzo/
-shop: Baustoffe
+shop: comercio
 ---

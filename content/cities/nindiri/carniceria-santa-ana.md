@@ -1,5 +1,5 @@
 ---
 title: "Carniceria Santa Ana"
 url: /nindiri/carniceria-santa-ana/
-shop: Metzgerei
+shop: carnicero
 ---

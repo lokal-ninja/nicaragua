@@ -1,5 +1,5 @@
 ---
 title: "Librería"
 url: /masaya/libreria/
-shop: Bücher
+shop: libros
 ---

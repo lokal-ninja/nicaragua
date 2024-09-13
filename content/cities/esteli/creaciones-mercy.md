@@ -1,5 +1,5 @@
 ---
 title: "Creaciones Mercy"
 url: /esteli/creaciones-mercy/
-shop: Modehaus
+shop: tienda
 ---

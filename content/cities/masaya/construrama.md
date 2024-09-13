@@ -1,5 +1,5 @@
 ---
 title: "Construrama"
 url: /masaya/construrama/
-shop: Baustoffe
+shop: comercio
 ---

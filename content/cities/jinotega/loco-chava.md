@@ -1,5 +1,5 @@
 ---
 title: "Loco Chava"
 url: /jinotega/loco-chava/
-shop: Gebrauchtwaren
+shop: caridad
 ---

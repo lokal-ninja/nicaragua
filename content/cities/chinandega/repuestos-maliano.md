@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Maliaño"
 url: /chinandega/repuestos-maliano/
-shop: Autoteile
+shop: piezas de automóviles
 ---

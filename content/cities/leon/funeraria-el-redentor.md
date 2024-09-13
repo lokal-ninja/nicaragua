@@ -1,5 +1,5 @@
 ---
 title: "Funeraria el Redentor"
 url: /leon/funeraria-el-redentor/
-shop: Bestattungen
+shop: directores de funerarias
 ---

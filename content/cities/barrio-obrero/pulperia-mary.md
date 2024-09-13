@@ -1,5 +1,5 @@
 ---
 title: "Pulpería Mary"
 url: /barrio-obrero/pulperia-mary/
-shop: Lebensmittel
+shop: comodidad
 ---

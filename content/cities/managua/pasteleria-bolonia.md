@@ -1,5 +1,5 @@
 ---
 title: "Pastelería Bolonia"
 url: /managua/pasteleria-bolonia/
-shop: Bäckerei
+shop: panadería
 ---

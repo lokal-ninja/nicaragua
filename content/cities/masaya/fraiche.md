@@ -1,5 +1,5 @@
 ---
 title: "Fraiche"
 url: /masaya/fraiche/
-shop: Allgemein
+shop: general
 ---

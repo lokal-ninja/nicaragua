@@ -1,5 +1,5 @@
 ---
 title: "Pili Boutique"
 url: /masaya/pili-boutique/
-shop: Kleidung
+shop: ropa
 ---

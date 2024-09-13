@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /jinotega/claro/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nutrimentos Purina"
 url: /chinandega/nutrimentos-purina/
-shop: Allgemein
+shop: general
 ---

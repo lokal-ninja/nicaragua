@@ -1,5 +1,5 @@
 ---
 title: "Plastipinatas"
 url: /barrio-santa-ana/plastipinatas/
-shop: Kramladen
+shop: tienda de variedades
 ---

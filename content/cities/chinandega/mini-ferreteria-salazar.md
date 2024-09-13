@@ -1,5 +1,5 @@
 ---
 title: "Mini Ferretería Salazar"
 url: /chinandega/mini-ferreteria-salazar/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Arce"
 url: /masaya/arce/
-shop: Autoteile
+shop: piezas de automóviles
 ---

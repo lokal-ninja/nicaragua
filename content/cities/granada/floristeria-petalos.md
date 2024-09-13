@@ -1,5 +1,5 @@
 ---
 title: "Floristeria Petalos"
 url: /granada/floristeria-petalos/
-shop: Blumen
+shop: floristería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Escudo"
 url: /granada/el-escudo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

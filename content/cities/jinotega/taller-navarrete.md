@@ -1,5 +1,5 @@
 ---
 title: "Taller Navarrete"
 url: /jinotega/taller-navarrete/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Librería CONAPRO"
 url: /managua/libreria-conapro/
-shop: Schreibwaren
+shop: material de oficina
 ---

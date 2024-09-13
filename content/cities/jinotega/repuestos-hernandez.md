@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Hernandez"
 url: /jinotega/repuestos-hernandez/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

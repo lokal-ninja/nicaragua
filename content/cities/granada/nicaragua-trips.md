@@ -1,5 +1,5 @@
 ---
 title: "Nicaragua Trips"
 url: /granada/nicaragua-trips/
-shop: Reisebüro
+shop: agencia de viajes
 ---

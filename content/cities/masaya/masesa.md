@@ -1,5 +1,5 @@
 ---
 title: "Masesa"
 url: /masaya/masesa/
-shop: Motorrad
+shop: motocicleta
 ---

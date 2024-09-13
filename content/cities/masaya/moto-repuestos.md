@@ -1,5 +1,5 @@
 ---
 title: "Moto Repuestos"
 url: /masaya/moto-repuestos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

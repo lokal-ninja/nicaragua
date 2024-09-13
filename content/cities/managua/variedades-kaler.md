@@ -1,5 +1,5 @@
 ---
 title: "Variedades Kaler"
 url: /managua/variedades-kaler/
-shop: Partyzubehör
+shop: fiesta
 ---

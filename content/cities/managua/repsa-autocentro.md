@@ -1,5 +1,5 @@
 ---
 title: "Repsa Autocentro"
 url: /managua/repsa-autocentro/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

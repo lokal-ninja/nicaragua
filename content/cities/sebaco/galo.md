@@ -1,5 +1,5 @@
 ---
 title: "Galo"
 url: /sebaco/galo/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Moda Intima's Boutique"
 url: /chinandega/moda-intimas-boutique/
-shop: Modehaus
+shop: tienda
 ---

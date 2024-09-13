@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /granada/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

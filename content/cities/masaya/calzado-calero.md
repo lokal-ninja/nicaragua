@@ -1,5 +1,5 @@
 ---
 title: "Calzado Calero"
 url: /masaya/calzado-calero/
-shop: Schuhe
+shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brandili"
 url: /masaya/brandili/
-shop: Kleidung
+shop: ropa
 ---

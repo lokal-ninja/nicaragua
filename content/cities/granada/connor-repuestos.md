@@ -1,5 +1,5 @@
 ---
 title: "Connor Repuestos"
 url: /granada/connor-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

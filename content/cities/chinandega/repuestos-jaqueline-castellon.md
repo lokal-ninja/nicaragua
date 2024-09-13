@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Jaqueline Castellón"
 url: /chinandega/repuestos-jaqueline-castellon/
-shop: Autoteile
+shop: piezas de automóviles
 ---

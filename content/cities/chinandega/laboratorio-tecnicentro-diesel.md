@@ -1,5 +1,5 @@
 ---
 title: "Laboratorio Tecnicentro Diesel"
 url: /chinandega/laboratorio-tecnicentro-diesel/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

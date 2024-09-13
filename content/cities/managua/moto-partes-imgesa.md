@@ -1,5 +1,5 @@
 ---
 title: "Moto Partes Imgesa"
 url: /managua/moto-partes-imgesa/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cruz Lorena"
 url: /masaya/cruz-lorena/
-shop: Betten
+shop: cama
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Expertos en Batidos"
 url: /managua/expertos-en-batidos/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carniceria San Pablo"
 url: /barrio-santa-ana/carniceria-san-pablo/
-shop: Metzgerei
+shop: carnicero
 ---

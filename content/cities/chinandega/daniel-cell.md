@@ -1,5 +1,5 @@
 ---
 title: "Daniel Cell"
 url: /chinandega/daniel-cell/
-shop: Handy
+shop: teléfono móvil
 ---

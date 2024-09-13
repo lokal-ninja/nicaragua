@@ -1,5 +1,5 @@
 ---
 title: "Family Store"
 url: /barrio-santa-ana/family-store/
-shop: Allgemein
+shop: general
 ---

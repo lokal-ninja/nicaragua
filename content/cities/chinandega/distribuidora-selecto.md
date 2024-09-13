@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Selecto"
 url: /chinandega/distribuidora-selecto/
-shop: Allgemein
+shop: general
 ---

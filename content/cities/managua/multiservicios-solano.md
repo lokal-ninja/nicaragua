@@ -1,5 +1,5 @@
 ---
 title: "Multiservicios Solano"
 url: /managua/multiservicios-solano/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Doc Cell"
 url: /jinotega/doc-cell/
-shop: Handy
+shop: teléfono móvil
 ---

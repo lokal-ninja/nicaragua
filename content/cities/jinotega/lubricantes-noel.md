@@ -1,5 +1,5 @@
 ---
 title: "Lubricantes Noel"
 url: /jinotega/lubricantes-noel/
-shop: Autoteile
+shop: piezas de automóviles
 ---

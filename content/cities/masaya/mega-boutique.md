@@ -1,5 +1,5 @@
 ---
 title: "Mega Boutique"
 url: /masaya/mega-boutique/
-shop: Kleidung
+shop: ropa
 ---

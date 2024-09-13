@@ -1,5 +1,5 @@
 ---
 title: "Boquitas Jireh"
 url: /jinotega/boquitas-jireh/
-shop: Konditorei
+shop: pastelería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Funeraria La Amistad"
 url: /masaya/funeraria-la-amistad/
-shop: Bestattungen
+shop: directores de funerarias
 ---

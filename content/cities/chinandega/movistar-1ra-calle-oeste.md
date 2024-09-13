@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /chinandega/movistar-1ra-calle-oeste/
-shop: Handy
+shop: teléfono móvil
 ---

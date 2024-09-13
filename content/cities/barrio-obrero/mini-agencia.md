@@ -1,5 +1,5 @@
 ---
 title: "Mini Agencia"
 url: /barrio-obrero/mini-agencia/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Chico Perez"
 url: /la-libertad/ferreteria-chico-perez/
-shop: Eisenwaren
+shop: hardware
 ---

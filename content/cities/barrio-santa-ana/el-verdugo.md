@@ -1,5 +1,5 @@
 ---
 title: "El Verdugo"
 url: /barrio-santa-ana/el-verdugo/
-shop: Elektronik
+shop: electrónica
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Laura"
 url: /bluefields/laura/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mía Fashion Boutique"
 url: /managua/mia-fashion-boutique/
-shop: Kleidung
+shop: ropa
 ---

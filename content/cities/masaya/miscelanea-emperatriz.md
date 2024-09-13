@@ -1,5 +1,5 @@
 ---
 title: "Miscelánea Emperatriz"
 url: /masaya/miscelanea-emperatriz/
-shop: Gebrauchtwaren
+shop: caridad
 ---

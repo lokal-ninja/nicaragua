@@ -1,5 +1,5 @@
 ---
 title: "Rumors"
 url: /chinandega/rumors/
-shop: Allgemein
+shop: general
 ---

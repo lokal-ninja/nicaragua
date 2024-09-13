@@ -1,5 +1,5 @@
 ---
 title: "Sur Color"
 url: /san-juan-del-sur/sur-color/
-shop: Autoteile
+shop: piezas de automóviles
 ---

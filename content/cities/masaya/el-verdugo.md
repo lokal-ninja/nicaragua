@@ -1,5 +1,5 @@
 ---
 title: "El Verdugo"
 url: /masaya/el-verdugo/
-shop: Elektronik
+shop: electrónica
 ---

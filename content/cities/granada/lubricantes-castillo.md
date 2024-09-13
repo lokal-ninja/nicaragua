@@ -1,5 +1,5 @@
 ---
 title: "Lubricantes Castillo"
 url: /granada/lubricantes-castillo/
-shop: Reifen
+shop: neumáticos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Maná Panaderìa"
 url: /masaya/el-mana-panaderia/
-shop: Bäckerei
+shop: panadería
 ---

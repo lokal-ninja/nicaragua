@@ -1,5 +1,5 @@
 ---
 title: "Conher"
 url: /masaya/conher/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carniceria Morales"
 url: /diriomo/carniceria-morales/
-shop: Metzgerei
+shop: carnicero
 ---

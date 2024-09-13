@@ -1,5 +1,5 @@
 ---
 title: "Impresión Digital"
 url: /jinotega/impresion-digital/
-shop: Schreibwaren
+shop: material de oficina
 ---

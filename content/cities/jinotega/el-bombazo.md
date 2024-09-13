@@ -1,5 +1,5 @@
 ---
 title: "El Bombazo"
 url: /jinotega/el-bombazo/
-shop: Warenhaus
+shop: grandes almacenes
 ---

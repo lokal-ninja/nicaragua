@@ -1,5 +1,5 @@
 ---
 title: "Comex"
 url: /managua/comex/
-shop: Farben
+shop: pintura
 ---

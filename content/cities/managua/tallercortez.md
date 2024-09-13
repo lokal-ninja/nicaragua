@@ -1,5 +1,5 @@
 ---
 title: "TallerCortez"
 url: /managua/tallercortez/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

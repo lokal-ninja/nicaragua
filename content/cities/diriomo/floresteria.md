@@ -1,5 +1,5 @@
 ---
 title: "Floresteria"
 url: /diriomo/floresteria/
-shop: Blumen
+shop: floristería
 ---

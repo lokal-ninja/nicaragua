@@ -1,5 +1,5 @@
 ---
 title: "Moke Huhu"
 url: /san-juan-del-sur/moke-huhu/
-shop: Sport
+shop: deportes
 ---

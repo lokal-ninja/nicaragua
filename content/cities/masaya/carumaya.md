@@ -1,5 +1,5 @@
 ---
 title: "Carumaya"
 url: /masaya/carumaya/
-shop: Baustoffe
+shop: comercio
 ---

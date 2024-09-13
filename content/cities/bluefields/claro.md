@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /bluefields/claro/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Calzado Comedor"
 url: /barrio-santa-ana/calzado-comedor/
-shop: Schuhe
+shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wonder"
 url: /granada/wonder/
-shop: Kleidung
+shop: ropa
 ---

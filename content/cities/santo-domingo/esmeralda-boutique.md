@@ -1,5 +1,5 @@
 ---
 title: "Esmeralda Boutique"
 url: /santo-domingo/esmeralda-boutique/
-shop: Kleidung
+shop: ropa
 ---

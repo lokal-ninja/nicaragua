@@ -1,5 +1,5 @@
 ---
 title: "Boutique Estrellas"
 url: /chinandega/boutique-estrellas/
-shop: Modehaus
+shop: tienda
 ---

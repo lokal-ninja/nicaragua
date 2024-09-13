@@ -1,5 +1,5 @@
 ---
 title: "Los Chavos"
 url: /bluefields/los-chavos/
-shop: Kiosk
+shop: quiosco
 ---

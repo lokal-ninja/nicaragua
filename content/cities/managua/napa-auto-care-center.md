@@ -1,5 +1,5 @@
 ---
 title: "Napa Auto Care Center"
 url: /managua/napa-auto-care-center/
-shop: Autoteile
+shop: piezas de automóviles
 ---

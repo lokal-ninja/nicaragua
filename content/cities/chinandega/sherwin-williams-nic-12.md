@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /chinandega/sherwin-williams-nic-12/
-shop: Farben
+shop: pintura
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Respuestos y Accesorios Juan Osorio"
 url: /jinotega/respuestos-y-accesorios-juan-osorio/
-shop: Autoteile
+shop: piezas de automóviles
 ---

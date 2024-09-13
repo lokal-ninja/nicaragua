@@ -1,5 +1,5 @@
 ---
 title: "Kaché"
 url: /chinandega/kache/
-shop: Kleidung
+shop: ropa
 ---

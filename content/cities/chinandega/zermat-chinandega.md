@@ -1,5 +1,5 @@
 ---
 title: "Zermat Chinandega"
 url: /chinandega/zermat-chinandega/
-shop: Handy
+shop: teléfono móvil
 ---

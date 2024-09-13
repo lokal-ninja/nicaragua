@@ -1,5 +1,5 @@
 ---
 title: "Eskimo"
 url: /diriomo/eskimo/
-shop: Eisprodukte
+shop: helado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Almacenes Tropigas"
 url: /la-trinidad/almacenes-tropigas-san-jose/
-shop: Warenhaus
+shop: grandes almacenes
 ---

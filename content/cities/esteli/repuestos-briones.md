@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Briones"
 url: /esteli/repuestos-briones/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

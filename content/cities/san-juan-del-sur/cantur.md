@@ -1,5 +1,5 @@
 ---
 title: "Cantur"
 url: /san-juan-del-sur/cantur/
-shop: Allgemein
+shop: general
 ---

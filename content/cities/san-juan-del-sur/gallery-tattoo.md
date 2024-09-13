@@ -1,5 +1,5 @@
 ---
 title: "Gallery Tattoo"
 url: /san-juan-del-sur/gallery-tattoo/
-shop: Tattoo
+shop: tatuaje
 ---

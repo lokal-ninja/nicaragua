@@ -1,5 +1,5 @@
 ---
 title: "Skygo"
 url: /chinandega/skygo/
-shop: Motorrad
+shop: motocicleta
 ---

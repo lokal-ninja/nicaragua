@@ -1,5 +1,5 @@
 ---
 title: "Barbería el Amigo"
 url: /jinotega/barberia-el-amigo/
-shop: Friseur
+shop: peluquería
 ---

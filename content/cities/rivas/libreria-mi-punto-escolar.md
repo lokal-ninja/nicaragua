@@ -1,5 +1,5 @@
 ---
 title: "Libreria Mi Punto Escolar"
 url: /rivas/libreria-mi-punto-escolar/
-shop: Schreibwaren
+shop: material de oficina
 ---

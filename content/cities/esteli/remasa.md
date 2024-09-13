@@ -1,5 +1,5 @@
 ---
 title: "Remasa"
 url: /esteli/remasa/
-shop: Allgemein
+shop: general
 ---

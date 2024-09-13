@@ -1,5 +1,5 @@
 ---
 title: "Zelmar"
 url: /sebaco/zelmar/
-shop: Allgemein
+shop: general
 ---

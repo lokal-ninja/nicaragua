@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /barrio-santa-ana/toyota/
-shop: Autohaus
+shop: coche
 ---

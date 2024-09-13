@@ -1,5 +1,5 @@
 ---
 title: "Sat Com"
 url: /chinandega/sat-com/
-shop: Handy
+shop: teléfono móvil
 ---

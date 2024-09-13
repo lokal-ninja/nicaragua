@@ -1,5 +1,5 @@
 ---
 title: "Escoto"
 url: /jinotega/escoto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

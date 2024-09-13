@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Mi Casa"
 url: /diriomo/ferreteria-mi-casa/
-shop: Eisenwaren
+shop: hardware
 ---

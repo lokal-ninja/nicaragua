@@ -1,5 +1,5 @@
 ---
 title: "Ben Hur"
 url: /esteli/ben-hur/
-shop: Autoteile
+shop: piezas de automóviles
 ---

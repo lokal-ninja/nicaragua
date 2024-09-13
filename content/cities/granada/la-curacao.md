@@ -1,5 +1,5 @@
 ---
 title: "La Curacao"
 url: /granada/la-curacao/
-shop: Elektronik
+shop: electrónica
 ---

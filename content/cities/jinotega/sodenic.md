@@ -1,5 +1,5 @@
 ---
 title: "Sodenic"
 url: /jinotega/sodenic/
-shop: Allgemein
+shop: general
 ---

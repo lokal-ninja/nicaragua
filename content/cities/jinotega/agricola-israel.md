@@ -1,5 +1,5 @@
 ---
 title: "Agricola Israel"
 url: /jinotega/agricola-israel/
-shop: Allgemein
+shop: general
 ---

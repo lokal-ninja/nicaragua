@@ -1,5 +1,5 @@
 ---
 title: "La Morena"
 url: /bluefields/la-morena/
-shop: Kiosk
+shop: quiosco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alka Seltzer"
 url: /matagalpa/alka-seltzer/
-shop: Kramladen
+shop: tienda de variedades
 ---

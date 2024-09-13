@@ -1,5 +1,5 @@
 ---
 title: "Natural Herbal Nicaragua"
 url: /san-marcos/natural-herbal-nicaragua/
-shop: Supermarkt
+shop: supermercado
 ---

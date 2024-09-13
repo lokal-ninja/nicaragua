@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Solís"
 url: /masaya/ferreteria-solis/
-shop: Eisenwaren
+shop: hardware
 ---

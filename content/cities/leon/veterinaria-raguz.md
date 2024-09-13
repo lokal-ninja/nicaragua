@@ -1,5 +1,5 @@
 ---
 title: "Veterinaria Raguz"
 url: /leon/veterinaria-raguz/
-shop: Tiere
+shop: mascotas
 ---

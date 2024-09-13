@@ -1,5 +1,5 @@
 ---
 title: "Repuestos y Accesorios Automotrices Javier"
 url: /condega/repuestos-y-accesorios-automotrices-javier/
-shop: Autoteile
+shop: piezas de automóviles
 ---

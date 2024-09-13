@@ -1,5 +1,5 @@
 ---
 title: "Casa Vieja"
 url: /jinotega/casa-vieja/
-shop: Allgemein
+shop: general
 ---

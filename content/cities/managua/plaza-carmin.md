@@ -1,5 +1,5 @@
 ---
 title: "Plaza Carmín"
 url: /managua/plaza-carmin/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

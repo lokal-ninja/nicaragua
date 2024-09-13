@@ -1,5 +1,5 @@
 ---
 title: "Pulpería Regina"
 url: /diriomo/pulperia-regina/
-shop: Lebensmittel
+shop: comodidad
 ---

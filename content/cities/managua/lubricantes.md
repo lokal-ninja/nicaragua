@@ -1,5 +1,5 @@
 ---
 title: "Lubricantes"
 url: /managua/lubricantes/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lubricantes de Occidental"
 url: /chinandega/lubricantes-de-occidental/
-shop: Autoteile
+shop: piezas de automóviles
 ---

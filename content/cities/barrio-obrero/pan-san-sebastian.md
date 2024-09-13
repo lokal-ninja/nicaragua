@@ -1,5 +1,5 @@
 ---
 title: "Pan San Sebastian"
 url: /barrio-obrero/pan-san-sebastian/
-shop: Bäckerei
+shop: panadería
 ---

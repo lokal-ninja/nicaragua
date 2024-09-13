@@ -1,5 +1,5 @@
 ---
 title: "MotoRepuestos"
 url: /rivas/motorepuestos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

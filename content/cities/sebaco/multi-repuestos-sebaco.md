@@ -1,5 +1,5 @@
 ---
 title: "Multi-repuestos Sébaco"
 url: /sebaco/multi-repuestos-sebaco/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

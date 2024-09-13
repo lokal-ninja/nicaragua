@@ -1,5 +1,5 @@
 ---
 title: "Cellplus Nicaragua"
 url: /managua/cellplus-nicaragua/
-shop: Handy
+shop: teléfono móvil
 ---

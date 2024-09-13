@@ -1,5 +1,5 @@
 ---
 title: "Market Cell"
 url: /chinandega/market-cell/
-shop: Handy
+shop: teléfono móvil
 ---

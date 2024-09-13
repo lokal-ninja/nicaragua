@@ -1,5 +1,5 @@
 ---
 title: "Pulpería El Socorro"
 url: /chinandega/pulperia-el-socorro/
-shop: Lebensmittel
+shop: comodidad
 ---

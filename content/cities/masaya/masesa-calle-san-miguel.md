@@ -1,5 +1,5 @@
 ---
 title: "Masesa"
 url: /masaya/masesa-calle-san-miguel/
-shop: Motorrad
+shop: motocicleta
 ---

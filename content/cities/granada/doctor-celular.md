@@ -1,5 +1,5 @@
 ---
 title: "Doctor Celular"
 url: /granada/doctor-celular/
-shop: Handy
+shop: teléfono móvil
 ---

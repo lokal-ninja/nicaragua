@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Tramesa"
 url: /chinandega/ferreteria-tramesa/
-shop: Eisenwaren
+shop: hardware
 ---

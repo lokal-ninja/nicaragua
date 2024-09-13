@@ -1,5 +1,5 @@
 ---
 title: "Panadería"
 url: /masaya/panaderia/
-shop: Bäckerei
+shop: panadería
 ---

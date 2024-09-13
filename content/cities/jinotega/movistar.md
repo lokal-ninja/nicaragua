@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /jinotega/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

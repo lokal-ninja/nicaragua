@@ -1,5 +1,5 @@
 ---
 title: "Barbería Angelita"
 url: /san-jorge/barberia-angelita/
-shop: Friseur
+shop: peluquería
 ---

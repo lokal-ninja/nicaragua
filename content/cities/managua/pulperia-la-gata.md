@@ -1,5 +1,5 @@
 ---
 title: "Pulpería la Gata"
 url: /managua/pulperia-la-gata/
-shop: Lebensmittel
+shop: comodidad
 ---

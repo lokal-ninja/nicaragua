@@ -1,5 +1,5 @@
 ---
 title: "Centro de Autoservicio"
 url: /managua/centro-de-autoservicio/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

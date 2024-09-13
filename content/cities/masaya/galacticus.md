@@ -1,5 +1,5 @@
 ---
 title: "Galacticus"
 url: /masaya/galacticus/
-shop: Handy
+shop: teléfono móvil
 ---

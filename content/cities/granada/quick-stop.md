@@ -1,5 +1,5 @@
 ---
 title: "Quick Stop"
 url: /granada/quick-stop/
-shop: Lebensmittel
+shop: comodidad
 ---

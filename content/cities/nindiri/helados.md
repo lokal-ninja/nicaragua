@@ -1,5 +1,5 @@
 ---
 title: "Helados"
 url: /nindiri/helados/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Palí"
 url: /masaya/pali/
-shop: Supermarkt
+shop: supermercado
 ---

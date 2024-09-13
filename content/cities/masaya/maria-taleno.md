@@ -1,5 +1,5 @@
 ---
 title: "María Taleno"
 url: /masaya/maria-taleno/
-shop: Lebensmittel
+shop: comodidad
 ---

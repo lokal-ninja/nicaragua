@@ -1,5 +1,5 @@
 ---
 title: "Pulpería el Carmen"
 url: /masaya/pulperia-el-carmen/
-shop: Lebensmittel
+shop: comodidad
 ---

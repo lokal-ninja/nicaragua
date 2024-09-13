@@ -1,5 +1,5 @@
 ---
 title: "Pulpería Chon Morales"
 url: /diriomo/pulperia-chon-morales/
-shop: Lebensmittel
+shop: comodidad
 ---

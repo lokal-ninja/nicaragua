@@ -1,5 +1,5 @@
 ---
 title: "Marielissa Boutique"
 url: /barrio-santa-ana/marielissa-boutique/
-shop: Kleidung
+shop: ropa
 ---

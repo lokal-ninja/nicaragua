@@ -1,5 +1,5 @@
 ---
 title: "Star Cell"
 url: /nindiri/star-cell/
-shop: Allgemein
+shop: general
 ---

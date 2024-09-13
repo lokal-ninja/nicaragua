@@ -1,5 +1,5 @@
 ---
 title: "Brenda"
 url: /chinandega/brenda/
-shop: Kleidung
+shop: ropa
 ---

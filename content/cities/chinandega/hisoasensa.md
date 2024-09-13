@@ -1,5 +1,5 @@
 ---
 title: "Hisoasensa"
 url: /chinandega/hisoasensa/
-shop: Fliesen
+shop: baldosas
 ---

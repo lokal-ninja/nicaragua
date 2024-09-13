@@ -1,5 +1,5 @@
 ---
 title: "Mangueras"
 url: /barrio-obrero/mangueras/
-shop: Allgemein
+shop: general
 ---

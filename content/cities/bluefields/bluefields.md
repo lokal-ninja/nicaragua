@@ -1,5 +1,5 @@
 ---
 title: "Bluefields"
 url: /bluefields/bluefields/
-shop: Warenhaus
+shop: grandes almacenes
 ---

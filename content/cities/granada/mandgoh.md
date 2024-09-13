@@ -1,5 +1,5 @@
 ---
 title: "Mandgoh"
 url: /granada/mandgoh/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

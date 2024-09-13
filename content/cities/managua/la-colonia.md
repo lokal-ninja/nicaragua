@@ -1,5 +1,5 @@
 ---
 title: "La Colonia"
 url: /managua/la-colonia/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

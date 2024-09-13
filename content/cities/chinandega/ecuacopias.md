@@ -1,5 +1,5 @@
 ---
 title: "Ecuacopias"
 url: /chinandega/ecuacopias/
-shop: Handy
+shop: teléfono móvil
 ---

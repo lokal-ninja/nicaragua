@@ -1,5 +1,5 @@
 ---
 title: "Brooklin Barber Shop"
 url: /chinandega/brooklin-barber-shop/
-shop: Friseur
+shop: peluquería
 ---

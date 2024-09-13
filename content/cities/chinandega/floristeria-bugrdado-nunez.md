@@ -1,5 +1,5 @@
 ---
 title: "Floristeria Bugrdado Nuñez"
 url: /chinandega/floristeria-bugrdado-nunez/
-shop: Blumen
+shop: floristería
 ---

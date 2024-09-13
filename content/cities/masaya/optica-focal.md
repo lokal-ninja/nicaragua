@@ -1,5 +1,5 @@
 ---
 title: "Óptica Focal"
 url: /masaya/optica-focal/
-shop: Optiker
+shop: óptico
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /chinandega/claro-2/
-shop: Handy
+shop: teléfono móvil
 ---

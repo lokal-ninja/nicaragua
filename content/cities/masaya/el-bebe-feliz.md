@@ -1,5 +1,5 @@
 ---
 title: "El Bebé Feliz"
 url: /masaya/el-bebe-feliz/
-shop: Babysachen
+shop: artículos para bebés
 ---

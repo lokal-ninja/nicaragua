@@ -1,5 +1,5 @@
 ---
 title: "Max's Fashion"
 url: /masaya/maxs-fashion/
-shop: Kosmetik
+shop: cosméticos
 ---

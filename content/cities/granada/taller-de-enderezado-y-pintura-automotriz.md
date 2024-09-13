@@ -1,5 +1,5 @@
 ---
 title: "Taller de Enderezado y Pintura Automotriz"
 url: /granada/taller-de-enderezado-y-pintura-automotriz/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

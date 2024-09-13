@@ -1,5 +1,5 @@
 ---
 title: "Libreria Y Variedades Paola"
 url: /san-jorge/libreria-y-variedades-paola/
-shop: Schreibwaren
+shop: material de oficina
 ---

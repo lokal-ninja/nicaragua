@@ -1,5 +1,5 @@
 ---
 title: "Dollar Travels"
 url: /leon/dollar-travels/
-shop: Reisebüro
+shop: agencia de viajes
 ---

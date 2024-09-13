@@ -1,5 +1,5 @@
 ---
 title: "Calzado Arauz"
 url: /jinotega/calzado-arauz/
-shop: Schuhe
+shop: zapatos
 ---

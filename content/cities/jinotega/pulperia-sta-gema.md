@@ -1,5 +1,5 @@
 ---
 title: "Pulpería Sta. Gema"
 url: /jinotega/pulperia-sta-gema/
-shop: Lebensmittel
+shop: comodidad
 ---

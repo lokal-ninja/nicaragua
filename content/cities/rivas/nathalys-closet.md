@@ -1,5 +1,5 @@
 ---
 title: "Nathaly's Closet"
 url: /rivas/nathalys-closet/
-shop: Kleidung
+shop: ropa
 ---

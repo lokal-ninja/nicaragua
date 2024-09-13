@@ -1,5 +1,5 @@
 ---
 title: "Variedades Bianka"
 url: /chinandega/variedades-bianka/
-shop: Kramladen
+shop: tienda de variedades
 ---

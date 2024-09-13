@@ -1,5 +1,5 @@
 ---
 title: "Fiestilandia"
 url: /chinandega/fiestilandia/
-shop: Allgemein
+shop: general
 ---

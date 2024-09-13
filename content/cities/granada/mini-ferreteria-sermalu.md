@@ -1,5 +1,5 @@
 ---
 title: "Mini Ferretería Sermalu"
 url: /granada/mini-ferreteria-sermalu/
-shop: Eisenwaren
+shop: hardware
 ---

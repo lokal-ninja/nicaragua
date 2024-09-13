@@ -1,5 +1,5 @@
 ---
 title: "Variedades el Cabo"
 url: /jinotega/variedades-el-cabo/
-shop: Allgemein
+shop: general
 ---

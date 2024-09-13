@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Industrial"
 url: /jinotega/distribuidora-industrial/
-shop: Farben
+shop: pintura
 ---

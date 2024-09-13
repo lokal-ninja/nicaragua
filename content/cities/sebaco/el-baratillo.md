@@ -1,5 +1,5 @@
 ---
 title: "El Baratillo"
 url: /sebaco/el-baratillo/
-shop: Allgemein
+shop: general
 ---

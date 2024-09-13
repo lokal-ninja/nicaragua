@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Adam's"
 url: /jinotega/repuestos-adams/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

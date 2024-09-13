@@ -1,5 +1,5 @@
 ---
 title: "El Gallo mas Gallo"
 url: /barrio-santa-ana/el-gallo-mas-gallo/
-shop: Motorrad
+shop: motocicleta
 ---

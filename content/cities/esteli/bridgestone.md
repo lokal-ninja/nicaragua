@@ -1,5 +1,5 @@
 ---
 title: "Bridgestone"
 url: /esteli/bridgestone/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

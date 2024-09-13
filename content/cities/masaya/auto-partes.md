@@ -1,5 +1,5 @@
 ---
 title: "Auto Partes"
 url: /masaya/auto-partes/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

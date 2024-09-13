@@ -1,5 +1,5 @@
 ---
 title: "Supermercado La Colonia"
 url: /jinotega/supermercado-la-colonia/
-shop: Supermarkt
+shop: supermercado
 ---

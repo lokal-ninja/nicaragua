@@ -1,5 +1,5 @@
 ---
 title: "Repuestos en Moto Universal"
 url: /masaya/repuestos-en-moto-universal/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vulcanizadora"
 url: /jinotega/vulcanizadora/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

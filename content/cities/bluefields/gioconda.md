@@ -1,5 +1,5 @@
 ---
 title: "Gioconda"
 url: /bluefields/gioconda/
-shop: Kiosk
+shop: quiosco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fotocopia"
 url: /leon/fotocopia/
-shop: Kopieren
+shop: copyshop
 ---
