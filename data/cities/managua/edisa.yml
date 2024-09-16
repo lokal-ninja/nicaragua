@@ -1,11 +1,11 @@
 id: 905965932
-type: way
+type: node
 latitude: 12.14561
 longitude: -86.28028
 postcode: ""
 city: Managua
-street: "Calle 27 de Mayo"
-housenumber: 12046
-phone: "+505 2222-2424"
-opening_hours: "Mo-Fr 08:00-17:30"
-website: "https://www.edisani.com/"
+street: Calle 27 de Mayo
+housenumber: "12046"
+phone: +505 2222-2424
+opening_hours: Mo-Fr 08:00-17:30
+website: https://www.edisani.com/

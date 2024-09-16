@@ -1,11 +1,12 @@
 id: 699814172
-type: way
+type: node
 latitude: 12.12558
 longitude: -86.26244
 postcode: "14006"
 city: Managua
-street: "De los semáforos de MONTE DE LOS OLIVOS 1½ cuadra al lago, Contiguo a la Libreria San Jeronimo"
-housenumber: 
+street: De los semáforos de MONTE DE LOS OLIVOS 1½ cuadra al lago, Contiguo a la Libreria
+    San Jeronimo
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

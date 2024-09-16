@@ -1,11 +1,11 @@
 id: 419546654
-type: way
+type: node
 latitude: 12.42587
 longitude: -86.86573
 postcode: ""
 city: León
-street: "NIC-12"
-housenumber: 
+street: NIC-12
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

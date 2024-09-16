@@ -1,11 +1,11 @@
 id: 1194850243
-type: way
+type: node
 latitude: 12.2156
 longitude: -85.16639
 postcode: "56300"
 city: La Libertad
-street: "Avenida Central"
-housenumber: 
-phone: "505 8728 5633"
-opening_hours: "Mo-Su 06:30-20:30"
+street: Avenida Central
+housenumber: ""
+phone: 505 8728 5633
+opening_hours: Mo-Su 06:30-20:30
 website: ""

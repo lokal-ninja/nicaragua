@@ -1,11 +1,11 @@
 id: 346405630
-type: way
+type: node
 latitude: 11.687
 longitude: -84.46065
 postcode: ""
 city: Nueva Guinea, RACCS
-street: "Frente a Los Pipitos, Zona # 4"
-housenumber: 
+street: 'Frente a Los Pipitos, Zona # 4'
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

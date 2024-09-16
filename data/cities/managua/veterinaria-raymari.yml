@@ -1,11 +1,11 @@
 id: 420332139
-type: way
+type: node
 latitude: 12.13777
 longitude: -86.28132
 postcode: ""
 city: managua
-street: "9a Avenida S.O."
-housenumber: 
-phone: "2264-0072;2268-0441"
-opening_hours: "Mo-Fr 08:30-17:30; Sa 08:30-15:00"
+street: 9a Avenida S.O.
+housenumber: ""
+phone: 2264-0072;2268-0441
+opening_hours: Mo-Fr 08:30-17:30; Sa 08:30-15:00
 website: ""

@@ -1,11 +1,11 @@
 id: 417931031
-type: way
+type: node
 latitude: 12.96818
 longitude: -86.23395
 postcode: "32500"
 city: La Trinidad
-street: "San Jose"
-housenumber: 
+street: San Jose
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

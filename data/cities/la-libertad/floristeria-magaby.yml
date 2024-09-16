@@ -1,11 +1,11 @@
 id: 1194849081
-type: way
+type: node
 latitude: 12.21926
 longitude: -85.16563
 postcode: "56300"
 city: La Libertad
-street: "detras de la iglesia catolica"
-housenumber: 
+street: detras de la iglesia catolica
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""
