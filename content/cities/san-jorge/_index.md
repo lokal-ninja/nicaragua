@@ -1,6 +1,6 @@
 ---
 title: San Jorge
 url: /san-jorge/
-latitude: 11.457
-longitude: -85.799
+latitude: 11.459
+longitude: -85.792
 ---
