@@ -1,6 +1,6 @@
 ---
 title: Jinotega
 url: /jinotega/
-latitude: 13.082
+latitude: 13.086
 longitude: -85.993
 ---
