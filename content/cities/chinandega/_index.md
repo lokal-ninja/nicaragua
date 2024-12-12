@@ -1,6 +1,6 @@
 ---
 title: Chinandega
 url: /chinandega/
-latitude: 12.631
-longitude: -87.132
+latitude: 12.63
+longitude: -87.128
 ---
