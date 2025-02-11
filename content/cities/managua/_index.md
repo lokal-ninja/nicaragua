@@ -1,6 +1,6 @@
 ---
 title: Managua
 url: /managua/
-latitude: 12.119
-longitude: -86.255
+latitude: 12.14
+longitude: -86.286
 ---
