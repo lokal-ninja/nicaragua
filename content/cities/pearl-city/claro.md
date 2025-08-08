@@ -1,5 +1,5 @@
 ---
 title: "Claro"
-url: /masaya/claro-calle-central/
+url: /pearl-city/claro/
 shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Claro"
-url: /pearl-lagoon/claro/
+url: /pearl-city/claro-king-street/
 shop: teléfono móvil
 ---

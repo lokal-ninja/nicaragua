@@ -1,5 +1,5 @@
 ---
 title: "Miscelánea La Principal"
-url: /laguna-de-perlas/miscelanea-la-principal/
+url: /pearl-city/miscelanea-la-principal/
 shop: comodidad
 ---
