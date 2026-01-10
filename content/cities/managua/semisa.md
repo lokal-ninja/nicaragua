@@ -1,5 +1,5 @@
 ---
-title: "SEMISA"
+title: "Semisa"
 url: /managua/semisa/
 shop: electrónica
 ---
