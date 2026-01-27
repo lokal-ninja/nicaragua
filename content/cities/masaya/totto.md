@@ -1,5 +1,5 @@
 ---
-title: "TOTTO"
+title: "Totto"
 url: /masaya/totto/
-shop: grandes almacenes
+shop: bolsas y maletas
 ---
