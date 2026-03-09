@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
-url: /masaya/movistar-avenida-monimbo/
+url: /masaya/movistar-calle-central/
 shop: general
 ---
