@@ -1,5 +1,5 @@
 ---
-title: "Pulpería Maria Isabel Avendaño Martínez"
+title: "Pulpería María Isabel Avendaño Martínez"
 url: /masaya/pulperia-maria-isabel-avendano-martinez/
 shop: comodidad
 ---

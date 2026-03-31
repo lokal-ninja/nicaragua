@@ -1,5 +1,5 @@
 ---
-title: "Ferretería Meza Ubeda"
+title: "Ferretería Meza Úbeda"
 url: /jinotega/ferreteria-meza-ubeda/
 shop: hardware
 ---

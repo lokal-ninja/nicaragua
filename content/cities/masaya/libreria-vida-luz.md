@@ -1,5 +1,5 @@
 ---
-title: "Libreria Vida Luz"
+title: "Librería Vida Luz"
 url: /masaya/libreria-vida-luz/
 shop: libros
 ---
