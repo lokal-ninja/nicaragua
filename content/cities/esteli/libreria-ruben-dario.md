@@ -1,5 +1,5 @@
 ---
-title: "Librería Rubén Dario"
+title: "Librería Rubén Darío"
 url: /esteli/libreria-ruben-dario/
 shop: libros
 ---
