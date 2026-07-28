@@ -1,5 +1,5 @@
 ---
-title: "Pulpería San Jose"
+title: "Pulpería San José"
 url: /leon/pulperia-san-jose/
 shop: comodidad
 ---

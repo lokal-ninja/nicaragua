@@ -1,5 +1,5 @@
 ---
-title: "Carnes San Martin"
+title: "Carnes San Martín"
 url: /leon/carnes-san-martin/
 shop: carnicero
 ---

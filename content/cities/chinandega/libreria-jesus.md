@@ -1,5 +1,5 @@
 ---
-title: "Libreria Jesus"
+title: "Libreria Jesús"
 url: /chinandega/libreria-jesus/
 shop: libros
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Comercial Diaz Romero"
+title: "Comercial Díaz Romero"
 url: /chinandega/comercial-diaz-romero-2/
 shop: muebles
 ---
