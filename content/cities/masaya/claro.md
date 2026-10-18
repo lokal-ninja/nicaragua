@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /masaya/claro/
-shop: general
+shop: teléfono móvil
 ---

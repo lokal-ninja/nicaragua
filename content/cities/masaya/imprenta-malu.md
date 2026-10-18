@@ -1,5 +1,5 @@
 ---
-title: "Imprenta Malu"
+title: "Imprenta Malú"
 url: /masaya/imprenta-malu/
 shop: copyshop
 ---
